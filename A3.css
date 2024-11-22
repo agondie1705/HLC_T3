@@ -1,0 +1,72 @@
+
+.navbar {
+    background-color: #000000;
+    color: rgb(0, 0, 0); 
+}
+body{
+    background-color: #292929;
+}
+.container-fluid{
+    background-color: #292929;
+}
+
+.navbar a {
+    color: rgb(255, 255, 255); 
+}
+.navbar-text{
+    color: white;
+}
+.navbar a:hover {
+    color: #a53636;
+}
+h1 {
+    color: #ffffff;
+}
+.card {
+    border: 3px solid #392424;
+    background-color: #424141;
+    border-radius: 55px;
+}
+
+.card-title {
+    color: #e6e0e0; 
+}
+
+.card-text {
+    color: #f4efef; 
+}
+form {
+    background-color: #292929; 
+    padding: 20px; 
+    border: 1px solid #372424;
+    border-radius: 5px; 
+}
+.form-label{
+    color: #ffffff;
+}
+.form-control{
+    background-color: #292929;
+}
+.input-group-text{
+    background-color: #292929;
+}
+.form-select{
+    background-color: #292929;
+}
+form button {
+    background-color: #672626; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px;
+    border-radius: 3px; 
+}
+.form-label{
+    border: #a53636;
+}
+.col-md-4{
+    border: #a53636;
+}
+.btn{
+    background-color: #672626;
+    border: yellow;
+}
